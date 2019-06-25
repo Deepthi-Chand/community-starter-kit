@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Just follow the instructions starting at https://lab.github.com/githubtraining/community-starter-kit
